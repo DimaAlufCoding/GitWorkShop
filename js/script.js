@@ -4,6 +4,7 @@ function clearDisplay() {
 
 function appendToDisplay(value) {
     document.getElementById('display').value += value;
+    console.log('dima')
 }
 
 function calculateResult() {
