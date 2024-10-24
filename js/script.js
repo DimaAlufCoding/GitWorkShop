@@ -17,4 +17,5 @@ function calculateResult() {
     } catch (error) {
         document.getElementById('display').value = 'Error';
     }
+    console.log('Dima')
 }
