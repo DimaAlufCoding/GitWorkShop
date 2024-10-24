@@ -31,3 +31,12 @@ body {
     margin: 5px;
     cursor: pointer;
 }
+
+h1{
+    font-family: monospace;
+    font-size: 45px;
+    font-weight: lighter;
+    text-align: center;
+    margin-block-end: 1em;
+
+}
