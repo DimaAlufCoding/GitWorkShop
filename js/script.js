@@ -1,5 +1,7 @@
 function clearDisplay() {
     document.getElementById('display').value = '';
+    console.log('dima')
+
 }
 
 function appendToDisplay(value) {
